@@ -11,10 +11,11 @@
   "keywords": [
     "discord",
     "rpc",
-    "rich presence",
-    "custom rpc",
-    "discord.js",
-    "discordjs"
+    "discord-js",
+    "rich-presence",
+    "discord-rpc",
+    "discord-rpc-client",
+    "custom-rpc"
   ],
 
   "dependencies": {
