@@ -1,5 +1,24 @@
 {
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord Custom Rich Presence on your PC with VS Code. Easy to customize and run.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sandarutharuneth",
+  "license": "CC-Zero",
+  "keywords": [
+    "discord",
+    "rpc",
+    "rich presence",
+    "custom rpc",
+    "discord.js",
+    "discordjs"
+  ],
+
   "dependencies": {
     "discord-rpc": "^4.0.1"
   }
+
 }
