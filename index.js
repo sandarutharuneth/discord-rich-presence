@@ -5,24 +5,24 @@ const rpc = new RPC.Client({
 
 rpc.on('ready', () => {
     rpc.setActivity({
-        details: 'Call Of Duty Mobile',
-        state: 'Battle Royal',
+        details: 'Call Of Duty Mobile', //Your activity Title here
+        state: 'Battle Royal', //Your secondary activity Title here
         startTimestamp: new Date(),
-        largeImageKey: 'large_Image',
-        largeImageText: 'Call Of Duty',
-        smallImageKey: 'small_Image',
-        smallImageText: 'Activision',
-        partyId: 'randomparty',
-        partyMax: 8,
-        partySize: 1,        
-        joinSecret: 'net',
+        largeImageKey: 'large_Image',//Large image name goes here
+        largeImageText: 'Call Of Duty',//Large image hover Text goes here
+        smallImageKey: 'small_Image',//small image name goes here
+        smallImageText: 'Activision',//Small image hove Text goes here
+        partyId: 'randomparty',//Name this whatever you want
+        partyMax: 8,//Adjust party max size
+        partySize: 1,//Adjust current party members size        
+        joinSecret: 'net',//dont change this unless if you know what you're doing
         instance: true,
         buttons: [{
-            label: 'Button 1',
-            url: 'https://youtube.com/rickroll'
+            label: 'Button 1',//Your first button Name goes here
+            url: 'https://youtube.com/rickroll'//Your first button Link goes here
         }, {
-            label: 'Button 2',
-            url: 'https://mywebsite.com'
+            label: 'Button 2',//Your second button Name goes here
+            url: 'https://mywebsite.com'//Your second button Link goes here
         }]
     });
     console.log('Your RPC is Running');
