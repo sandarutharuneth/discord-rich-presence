@@ -30,6 +30,6 @@ rpc.on('ready', () => {
 
 rpc.login(
     {
-        clientId: '8563535768137802' // Put your rpc client ID here
+        clientId: '856353XXXXXXXXXX' // Put your rpc client ID here
     }
 )
