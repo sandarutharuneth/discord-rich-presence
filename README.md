@@ -1,6 +1,7 @@
 # Discord Custom RPC
 Create your own customized Discord status by using our code <br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) <br>
+<a href="https://imgur.com/Q7tzXFu"><img src="https://i.imgur.com/Q7tzXFu.png" title="source: imgur.com" /></a>
 
 ## Installation
 - Clone the reposatory
