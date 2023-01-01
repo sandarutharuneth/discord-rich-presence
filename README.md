@@ -15,7 +15,7 @@ npm i discord-rpc
 ```javascript
 rpc.login(
     {
-        clientId: '8563535768137802'
+        clientId: '8563535XXXXXXXXXX'
     }
 )
 ```
