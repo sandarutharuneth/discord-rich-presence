@@ -6,7 +6,7 @@ Create your own customized Discord status by using our code <br>
 ## Installation
 - Clone the reposatory
 ```javascript
-git clone https://github.com/sandarutharuneth/discord-rpc.git
+git clone https://github.com/sandarutharuneth/discord-rich-presence.git
 ```
 - Install discord rpc package
 ```javascript
@@ -33,12 +33,12 @@ node index.js
 
 # Licensed Under
 ### Creative Commons CC0 v1.0 Universal
-[View the license here](https://github.com/sandarutharuneth/discord-rpc/blob/master/LICENSE)
+[View the license here](https://github.com/sandarutharuneth/discord-rich-presence/blob/master/LICENSE)
 #### Copyright 2023 © All Rights are Reserved
   
 # Support
 <a href="https://discord.gg/cqSEc9FNrE"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a> <br>
 <a href="https://github.com/sandarutharuneth/discord-rpc/" target="_blank"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandarutharuneth&repo=discord-rpc&theme=react" alt="Readme-Card.png">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandarutharuneth&repo=discord-rich-presence&theme=react" alt="Readme-Card.png">
   </a>
 <p style="text-align: center"> &copy; Project Razer</p>
