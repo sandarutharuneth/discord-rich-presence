@@ -3,14 +3,36 @@ Create your own customized Discord status by using our code <br>
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) <br>
 <a href="https://imgur.com/X7bYHFE"><img src="https://i.imgur.com/X7bYHFE.png" title="source: imgur.com" /></a>
 
-## Installation
+# Installation
 - Clone the reposatory
 ```javascript
 git clone https://github.com/sandarutharuneth/discord-rich-presence.git
 ```
-- Install discord rpc package
+## Web UI
+- Head to the /dashboard directory
 ```javascript
-npm i discord-rpc
+cd dashboard
+```
+- Install Node Modules
+```javascript
+npm install
+```
+- Start the Web UI
+```javascript
+npm run start
+```
+- [Access Web UI](http://localhost:3000)
+- Fill all the Textboxes with relevent data
+- Click Save and Start
+***
+## Terminal without UI
+- Navigate to the Terminal directory
+```javascript
+cd Terminal
+```
+- Install Node Modules
+```javascript
+npm i install
 ```
 - Fill all the necessary details on `index.js` file
 - Put your Client ID here
