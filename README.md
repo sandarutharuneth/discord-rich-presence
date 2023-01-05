@@ -50,8 +50,10 @@ node .
 ```js
 node index.js
 ```
-# Developer
+# Developers
 <img src="https://discord.c99.nl/widget/theme-2/846193169758814228.png">
+
+<img src="https://discord.c99.nl/widget/theme-2/719229142536683550.png">
 
 # Licensed Under
 ### Creative Commons CC0 v1.0 Universal
