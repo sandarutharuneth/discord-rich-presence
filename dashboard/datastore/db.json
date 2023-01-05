@@ -1,0 +1,14 @@
+{
+  "client_id": "1060448522148786237",
+  "title": "Test",
+  "s_title": "Test",
+  "l_img_name": "large",
+  "l_img_text": "Test",
+  "s_img_name": "small",
+  "s_img_text": "Test",
+  "p_max": "1",
+  "btn_1_lbl": "Test",
+  "btn_1_link": "https://www.google.com",
+  "btn_2_lbl": "Test",
+  "btn_2_link": "https://www.google.com"
+}
