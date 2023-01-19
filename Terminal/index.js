@@ -3,6 +3,7 @@ const rpc = new RPC.Client({
     transport: 'ipc'
 });
 
+//You can remove or keep certain features only on terminal version
 rpc.on('ready', () => {
     rpc.setActivity({
         details: 'Call Of Duty Mobile', //Your activity Title here
@@ -19,10 +20,10 @@ rpc.on('ready', () => {
         instance: true,
         buttons: [{
             label: 'Button 1',//Your first button Name goes here
-            url: 'https://youtube.com/rickroll'//Your first button Link goes here
+            url: 'https://youtu.be/dQw4w9WgXcQ'//Your first button Link goes here
         }, {
             label: 'Button 2',//Your second button Name goes here
-            url: 'https://mywebsite.com'//Your second button Link goes here
+            url: 'https://youtu.be/dQw4w9WgXcQ'//Your second button Link goes here
         }]
     });
     console.log('Your RPC is Running');
@@ -30,7 +31,7 @@ rpc.on('ready', () => {
 
 rpc.login(
     {
-        clientId: '1060448522148786237' // Put your rpc client ID here
+        clientId: '1060448xxxxxxxxxxxx' // Put your rpc client ID here
     }
 )
 
