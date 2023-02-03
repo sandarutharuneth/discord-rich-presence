@@ -17,7 +17,7 @@
     "@chakra-ui/react": "^2.4.6",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
-    "@next/font": "13.1.1",
+    "@next/font": "13.1.2",
     "axios": "^1.2.2",
     "discord-rpc": "^4.0.1",
     "eslint": "8.31.0",
