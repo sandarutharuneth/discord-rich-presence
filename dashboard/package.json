@@ -20,7 +20,7 @@
     "@next/font": "13.1.2",
     "axios": "^1.2.2",
     "discord-rpc": "^4.0.1",
-    "eslint": "8.31.0",
+    "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
     "framer-motion": "^6.5.1",
     "next": "13.1.2",
